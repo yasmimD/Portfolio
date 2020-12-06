@@ -1,0 +1,18 @@
+#menu{
+    background-color: #00123B;
+}
+html, body {
+    height: 100%;
+}
+
+.cor{
+    background-color: #F2F2F2;
+}
+
+.hover :hover{
+    background-color: #265573;
+    color: white;
+}
+.shadow{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
